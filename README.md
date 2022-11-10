@@ -3,8 +3,7 @@ AcmeFresh organization product delivery Restful Api project with admin login, cu
 
 **ER**
 
-![image](https://user-images.githubusercontent.com/57911117/201059486-02d3be95-7edd-4712-aa29-7cbc755984d1.png)
-
+![Screenshot (798)](https://user-images.githubusercontent.com/57911117/201059921-669405fb-b0d1-42e4-a37e-2a246214eeee.png)
 
 
 **The Schema**
