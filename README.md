@@ -1,6 +1,12 @@
 # AcmeFresh
 AcmeFresh organization product delivery Restful Api project with admin login, customer login and product selling Api's
 
+**ER**
+
+![image](https://user-images.githubusercontent.com/57911117/201059486-02d3be95-7edd-4712-aa29-7cbc755984d1.png)
+
+
+
 **The Schema**
 
 ![Screenshot (785)](https://user-images.githubusercontent.com/57911117/201010014-ea78fca8-5226-4c8b-9621-d1c283527da3.png)
