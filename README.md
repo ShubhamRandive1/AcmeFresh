@@ -1,7 +1,7 @@
 # AcmeFresh
 AcmeFresh organization product delivery Restful Api project with admin login, customer login and product selling Api's
 
-**ER**
+**ER(Entity Relationship diagram)**
 
 ![Screenshot (798)](https://user-images.githubusercontent.com/57911117/201059921-669405fb-b0d1-42e4-a37e-2a246214eeee.png)
 
